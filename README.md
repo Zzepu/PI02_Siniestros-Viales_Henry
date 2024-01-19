@@ -30,6 +30,8 @@ Para acceder a detalles específicos, se puede consultar el notebook [EDA](Jupit
 
 ## KPI's
 
+**Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior**
+
 El objetivo es disminuir en un 10% la incidencia de homicidios en accidentes de tráfico durante los últimos seis meses en CABA, en comparación con la tasa de homicidios en accidentes de tráfico del semestre previo. Este indicador se define como el número total de víctimas mortales en el conjunto de datos por cada 100,000 habitantes en una zona geográfica durante un periodo específico.
 
 Para calcular este KPI, se llevó a cabo una comparación entre los últimos dos trimestres de 2021, buscando lograr una reducción del 10% en la tasa de homicidios en accidentes de tráfico.
