@@ -36,6 +36,12 @@ Para calcular este KPI, se llevó a cabo una comparación entre los últimos dos
 
 Durante el último semestre de 2021, la tasa de homicidios en accidentes de tráfico fue de 1.35, indicando una disminución de 0.42, lo que representa una reducción porcentual del -23.64%. Esta reducción implica que se alcanzó con éxito la meta de reducir en un 10% la tasa de accidentes de tráfico en el segundo semestre de 2021.
 
+**Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior.**
+
+La cantidad de accidentes mortales de motociclistas en siniestros viales se define como el total de accidentes fatales en los que personas que viajaban en moto resultaron afectadas durante un periodo específico. Para medir la variación en la incidencia de estos accidentes, se utiliza la siguiente fórmula: Restamos el número de accidentes mortales con víctimas en moto del año actual al número correspondiente del año anterior, luego dividimos este resultado entre el número de accidentes mortales con víctimas en moto del año anterior y multiplicamos el cociente por 100.
+
+El incremento del 43.75% en los accidentes de motociclistas durante el año 2021 en comparación con 2020 es una tendencia preocupante que dista considerablemente de la meta establecida de reducir en un 7% los accidentes de motociclistas.
+
 ## Esqueleto del Repositorio
 
 - 📂 **Datos**: Aca se encuentran los conjuntos de datos que fueron empleados en el análisis.
